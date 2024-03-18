@@ -8,13 +8,13 @@
  */
 (self["webpackChunk_N_E"] = self["webpackChunk_N_E"] || []).push([["app/layout"],{
 
-/***/ "(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2Fhome%2Fjwlee%2FDocuments%2FnomadCoders%2Flearn-nextjs%2Fcomponents%2Fnavigation.tsx&server=false!":
-/*!******************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2Fhome%2Fjwlee%2FDocuments%2FnomadCoders%2Flearn-nextjs%2Fcomponents%2Fnavigation.tsx&server=false! ***!
-  \******************************************************************************************************************************************************************************************************/
+/***/ "(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2Fhome%2Fjwlee%2FDocuments%2FnomadCoders%2Flearn-nextjs%2Fcomponents%2Fnavigation.tsx&modules=%2Fhome%2Fjwlee%2FDocuments%2FnomadCoders%2Flearn-nextjs%2Fstyles%2Fglobal.css&server=false!":
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2Fhome%2Fjwlee%2FDocuments%2FnomadCoders%2Flearn-nextjs%2Fcomponents%2Fnavigation.tsx&modules=%2Fhome%2Fjwlee%2FDocuments%2FnomadCoders%2Flearn-nextjs%2Fstyles%2Fglobal.css&server=false! ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************/
 /***/ (function(__unused_webpack_module, __unused_webpack_exports, __webpack_require__) {
 
-eval(__webpack_require__.ts("Promise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./components/navigation.tsx */ \"(app-pages-browser)/./components/navigation.tsx\"))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uL25vZGVfbW9kdWxlcy9uZXh0L2Rpc3QvYnVpbGQvd2VicGFjay9sb2FkZXJzL25leHQtZmxpZ2h0LWNsaWVudC1lbnRyeS1sb2FkZXIuanM/bW9kdWxlcz0lMkZob21lJTJGandsZWUlMkZEb2N1bWVudHMlMkZub21hZENvZGVycyUyRmxlYXJuLW5leHRqcyUyRmNvbXBvbmVudHMlMkZuYXZpZ2F0aW9uLnRzeCZzZXJ2ZXI9ZmFsc2UhIiwibWFwcGluZ3MiOiJBQUFBIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vX05fRS8/YmU4ZiJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQoLyogd2VicGFja01vZGU6IFwiZWFnZXJcIiAqLyBcIi9ob21lL2p3bGVlL0RvY3VtZW50cy9ub21hZENvZGVycy9sZWFybi1uZXh0anMvY29tcG9uZW50cy9uYXZpZ2F0aW9uLnRzeFwiKSJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2Fhome%2Fjwlee%2FDocuments%2FnomadCoders%2Flearn-nextjs%2Fcomponents%2Fnavigation.tsx&server=false!\n"));
+eval(__webpack_require__.ts("Promise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./components/navigation.tsx */ \"(app-pages-browser)/./components/navigation.tsx\"));\nPromise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./styles/global.css */ \"(app-pages-browser)/./styles/global.css\"))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uL25vZGVfbW9kdWxlcy9uZXh0L2Rpc3QvYnVpbGQvd2VicGFjay9sb2FkZXJzL25leHQtZmxpZ2h0LWNsaWVudC1lbnRyeS1sb2FkZXIuanM/bW9kdWxlcz0lMkZob21lJTJGandsZWUlMkZEb2N1bWVudHMlMkZub21hZENvZGVycyUyRmxlYXJuLW5leHRqcyUyRmNvbXBvbmVudHMlMkZuYXZpZ2F0aW9uLnRzeCZtb2R1bGVzPSUyRmhvbWUlMkZqd2xlZSUyRkRvY3VtZW50cyUyRm5vbWFkQ29kZXJzJTJGbGVhcm4tbmV4dGpzJTJGc3R5bGVzJTJGZ2xvYmFsLmNzcyZzZXJ2ZXI9ZmFsc2UhIiwibWFwcGluZ3MiOiJBQUFBLGdMQUE2RztBQUM3RyIsInNvdXJjZXMiOlsid2VicGFjazovL19OX0UvPzNhNWEiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0KC8qIHdlYnBhY2tNb2RlOiBcImVhZ2VyXCIgKi8gXCIvaG9tZS9qd2xlZS9Eb2N1bWVudHMvbm9tYWRDb2RlcnMvbGVhcm4tbmV4dGpzL2NvbXBvbmVudHMvbmF2aWdhdGlvbi50c3hcIik7XG5pbXBvcnQoLyogd2VicGFja01vZGU6IFwiZWFnZXJcIiAqLyBcIi9ob21lL2p3bGVlL0RvY3VtZW50cy9ub21hZENvZGVycy9sZWFybi1uZXh0anMvc3R5bGVzL2dsb2JhbC5jc3NcIikiXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2Fhome%2Fjwlee%2FDocuments%2FnomadCoders%2Flearn-nextjs%2Fcomponents%2Fnavigation.tsx&modules=%2Fhome%2Fjwlee%2FDocuments%2FnomadCoders%2Flearn-nextjs%2Fstyles%2Fglobal.css&server=false!\n"));
 
 /***/ }),
 
@@ -59,6 +59,17 @@ eval(__webpack_require__.ts("/**\n * @license React\n * react-jsx-dev-runtime.de
 
 "use strict";
 eval(__webpack_require__.ts("\nif (false) {} else {\n    module.exports = __webpack_require__(/*! ./cjs/react-jsx-dev-runtime.development.js */ \"(app-pages-browser)/./node_modules/next/dist/compiled/react/cjs/react-jsx-dev-runtime.development.js\");\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uL25vZGVfbW9kdWxlcy9uZXh0L2Rpc3QvY29tcGlsZWQvcmVhY3QvanN4LWRldi1ydW50aW1lLmpzIiwibWFwcGluZ3MiOiJBQUFBO0FBRUEsSUFBSUEsS0FBeUIsRUFBYyxFQUUxQyxNQUFNO0lBQ0xDLDhMQUF5QjtBQUMzQiIsInNvdXJjZXMiOlsid2VicGFjazovL19OX0UvLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2NvbXBpbGVkL3JlYWN0L2pzeC1kZXYtcnVudGltZS5qcz9jYTIwIl0sInNvdXJjZXNDb250ZW50IjpbIid1c2Ugc3RyaWN0JztcblxuaWYgKHByb2Nlc3MuZW52Lk5PREVfRU5WID09PSAncHJvZHVjdGlvbicpIHtcbiAgbW9kdWxlLmV4cG9ydHMgPSByZXF1aXJlKCcuL2Nqcy9yZWFjdC1qc3gtZGV2LXJ1bnRpbWUucHJvZHVjdGlvbi5taW4uanMnKTtcbn0gZWxzZSB7XG4gIG1vZHVsZS5leHBvcnRzID0gcmVxdWlyZSgnLi9janMvcmVhY3QtanN4LWRldi1ydW50aW1lLmRldmVsb3BtZW50LmpzJyk7XG59XG4iXSwibmFtZXMiOlsicHJvY2VzcyIsIm1vZHVsZSIsImV4cG9ydHMiLCJyZXF1aXJlIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(app-pages-browser)/./node_modules/next/dist/compiled/react/jsx-dev-runtime.js\n"));
+
+/***/ }),
+
+/***/ "(app-pages-browser)/./styles/global.css":
+/*!***************************!*\
+  !*** ./styles/global.css ***!
+  \***************************/
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval(__webpack_require__.ts("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"305b71c669eb\");\nif (true) { module.hot.accept() }\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uL3N0eWxlcy9nbG9iYWwuY3NzIiwibWFwcGluZ3MiOiI7QUFBQSwrREFBZSxjQUFjO0FBQzdCLElBQUksSUFBVSxJQUFJLGlCQUFpQiIsInNvdXJjZXMiOlsid2VicGFjazovL19OX0UvLi9zdHlsZXMvZ2xvYmFsLmNzcz82YmRkIl0sInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBkZWZhdWx0IFwiMzA1YjcxYzY2OWViXCJcbmlmIChtb2R1bGUuaG90KSB7IG1vZHVsZS5ob3QuYWNjZXB0KCkgfVxuIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(app-pages-browser)/./styles/global.css\n"));
 
 /***/ }),
 
@@ -285,7 +296,7 @@ eval(__webpack_require__.ts("\nObject.defineProperty(exports, \"__esModule\", ({
 },
 /******/ function(__webpack_require__) { // webpackRuntimeModules
 /******/ var __webpack_exec__ = function(moduleId) { return __webpack_require__(__webpack_require__.s = moduleId); }
-/******/ __webpack_require__.O(0, ["main-app"], function() { return __webpack_exec__("(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2Fhome%2Fjwlee%2FDocuments%2FnomadCoders%2Flearn-nextjs%2Fcomponents%2Fnavigation.tsx&server=false!"); });
+/******/ __webpack_require__.O(0, ["main-app"], function() { return __webpack_exec__("(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2Fhome%2Fjwlee%2FDocuments%2FnomadCoders%2Flearn-nextjs%2Fcomponents%2Fnavigation.tsx&modules=%2Fhome%2Fjwlee%2FDocuments%2FnomadCoders%2Flearn-nextjs%2Fstyles%2Fglobal.css&server=false!"); });
 /******/ var __webpack_exports__ = __webpack_require__.O();
 /******/ _N_E = __webpack_exports__;
 /******/ }
